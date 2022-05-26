@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(50, 50, 50);
+    background-size: 1920px 980px;
+}
+
+#rules{
+    font-size: 20px;
+    color: wheat;
+}
+
+#title{
+    color: violet;
+}

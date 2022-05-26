@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(50, 50, 50);
+    background-image: url("../img/fon2.png");
+    background-size: 1920px 980px;
+}
+
+table{
+    color: royalblue;
+}
+.wid{
+    width:0px;
+   height: 0px;
+   padding:0px;
+  
+}
+
+.dn{
+    text-align: center;
+    font-size: 38px;
+    border-bottom: solid 5px #0000ff;
+    padding-top: 30px;
+    padding-left: 15px;
+    font-weight:bold;
+    width: 30px;
+   height: 30px; 
+}
+
+.non{
+    border: none; 
+}
+
+h1{
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+td{
+   width: 30px;
+   height: 30px; 
+}
+
+#game{
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+}
+
